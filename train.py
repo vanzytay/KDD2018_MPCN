@@ -38,15 +38,13 @@ from scipy.stats import pearsonr
 from scipy.stats import spearmanr
 
 from tf_models.model import Model
-from tf_models.rec_model import RecModel
+# from tf_models.rec_model import RecModel
 from lib.exp.experiment import Experiment
 from tylib.exp.exp_ops import *
-from tylib.exp.tuning import *
 from parser import *
-from tylib.lib.viz import *
 from sklearn.metrics import mean_absolute_error
 
-from rec_config import *
+# from rec_config import *
 
 reload(sys)
 sys.setdefaultencoding('UTF8')

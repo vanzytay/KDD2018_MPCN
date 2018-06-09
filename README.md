@@ -1,3 +1,5 @@
+# Code for KDD 2018
+
 This repository contains a reference implementation of our Multi-Pointer Co-Attention Networks (MPCN) proposed in KDD 2018.
 
 Preprint is available here: https://arxiv.org/abs/1801.09251
@@ -6,8 +8,8 @@ Note: This is a preliminary rough sketch of the MPCN implementation. The main fu
 
 ## Environment Setup
 
-Tensorflow 1.7
-Python 2.7
+1. Tensorflow 1.7
+2. Python 2.7
 
 ## Reference
 
