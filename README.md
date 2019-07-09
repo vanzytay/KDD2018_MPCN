@@ -4,7 +4,7 @@ This repository contains a reference implementation of our Multi-Pointer Co-Atte
 
 Preprint is available here: https://arxiv.org/abs/1801.09251
 
-Note: This is a preliminary rough sketch of the MPCN implementation. The main functions are already in this repository. The next update will including running instructions and dataset prep. Since this is mainly copied from another repository, some dependencies might be broken (for now). I plan to test this repo in isolation soon. Stay tuned.
+Note: This is a preliminary rough sketch of the MPCN implementation. The main functions are already in this repository. The next update will including running instructions and dataset prep. Since this is mainly copied from another repository, some dependencies might be broken (for now). This codebase is *not* actively maintained. If you do find an issue (missing dependencies), I will try to fix it at my free time.
 
 ## Environment Setup
 
